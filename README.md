@@ -4,4 +4,4 @@ Nevermore controller is a hardware based on the [SanaaHamel/nevermore-controller
 ![](/doc/nevermore%20controller%20pinout.png)
 
 # Wiring
-
+![](/doc/For%20nevermore%20mini.png)
